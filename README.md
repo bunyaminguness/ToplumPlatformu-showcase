@@ -84,7 +84,7 @@ The application follows a layered, clean-architecture approach with a clear sepa
 ---
 
 ### 👤 User Profile
-![User Profile](./screenshots/profile.png)
+![User Profile](./screenshots/userprofile.png)
 
 > _Public user profile displaying contribution stats, earned badges, and activity history._
 
