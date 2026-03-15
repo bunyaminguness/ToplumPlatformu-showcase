@@ -110,8 +110,7 @@ ToplumPlatformu-showcase/
 This project was built as part of a full-stack development portfolio. The **source code is private** but is available upon request for technical review.
 
 If you are a recruiter or interviewer interested in reviewing the full codebase, please reach out via:
-- 🔗 [LinkedIn](https://linkedin.com) *(replace with your profile URL)*
-- 📧 Email *(replace with your email address)*
+- 📧 Email *(gunesbunyamin004@gmail.com)*
 
 ---
 
