@@ -77,7 +77,7 @@ The application follows a layered, clean-architecture approach with a clear sepa
 ---
 
 ### 📋 Issue Card — Detail View
-![Issue Card](./screenshots/issue-card.png)
+![Issue Card](./screenshots/IssueCardSS.png)
 
 > _Detailed issue card showing description, location, status timeline, supporter count, and comments._
 
