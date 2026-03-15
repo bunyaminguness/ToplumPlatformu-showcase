@@ -70,7 +70,7 @@ The application follows a layered, clean-architecture approach with a clear sepa
 ## 📸 Screenshots
 
 ### 🗺️ Map View — Issue Discovery
-![Map View](./screenshots/Ekran Resmi 2026-03-16 02.25.27.png)
+![Map View](./screenshots/mapSS.png)
 
 > _Interactive map showing community-reported issues. Each pin represents a reported problem with category, status, and support count._
 
