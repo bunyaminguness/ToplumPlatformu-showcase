@@ -61,7 +61,7 @@ Urban and community issues — broken infrastructure, safety hazards, environmen
 
 The application follows a layered, clean-architecture approach with a clear separation between the Next.js frontend and the ASP.NET Core backend API.
 
-![Architecture Diagram](./8f636cd3-ee5d-46c0-b0a0-bc56b6d04e87.png)
+![Architecture Diagram](./screenshots/8f636cd3-ee5d-46c0-b0a0-bc56b6d04e87.png)
 
 > _High-level overview: Next.js SPA → ASP.NET Core REST API → PostgreSQL database, with real-time updates via SignalR._
 
